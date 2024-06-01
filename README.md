@@ -6,7 +6,7 @@ Este desafio faz parte do curso de versionamento ministrado por [Yara Daniele Uc
 
 ### Integrantes desse repositório
 
-Nome:   
-Curso:  
-Semestre:   
-Apresentação:   
+Nome:  [Yara Daniele Uchoa](link)   
+Curso:  Análise e desenvolvimento de sistemas   
+Semestre:   4   
+Apresentação:   Apaixonada por python e focada no Back-End  
