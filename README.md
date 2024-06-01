@@ -15,3 +15,9 @@ Este desafio faz parte do curso de versionamento ministrado por [Yara Daniele Uc
 **Curso:** Análise e desenvolvimento de sistemas
 **Semestre:** 1
 **Apresentação:** Focado em Front e Back-End
+
+**Nome:** [Sara Feitosa](https://github.com/SaraFeitosa05)
+**Curso:**  Gestão de Recursos Humanos
+**Semestre:** 3
+**Apresentação:** Estudante de Recursos Humanos.
+
