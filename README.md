@@ -6,7 +6,7 @@ Este desafio faz parte do curso de versionamento ministrado por [Yara Daniele Uc
 
 ### Integrantes desse repositório
 
-**Nome:**  [Yara Daniele Uchoa](link)   
+**Nome:** [Yara Daniele Uchoa](link)   
 **Curso:**  Análise e desenvolvimento de sistemas   
 **Semestre:**   4   
 **Apresentação:**   Apaixonada por python e focada no Back-End
@@ -20,4 +20,10 @@ Este desafio faz parte do curso de versionamento ministrado por [Yara Daniele Uc
 **Curso:**  Gestão de Recursos Humanos
 **Semestre:** 3
 **Apresentação:** Estudante de Recursos Humanos.
+**Apresentação:**   Apaixonada por python e focada no Back-End 
+
+**Nome:**  [Vinicius Paiva](https://github.com/Viniowl)   
+**Curso:**  Análise e desenvolvimento de sistemas   
+**Semestre:**   2  
+**Apresentação:** Aprendendo a programar com dificuldade no Front-End
 
