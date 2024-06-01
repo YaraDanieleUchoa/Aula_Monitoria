@@ -9,4 +9,9 @@ Este desafio faz parte do curso de versionamento ministrado por [Yara Daniele Uc
 **Nome:**  [Yara Daniele Uchoa](link)   
 **Curso:**  Análise e desenvolvimento de sistemas   
 **Semestre:**   4   
-**Apresentação:**   Apaixonada por python e focada no Back-End  
+**Apresentação:**   Apaixonada por python e focada no Back-End
+
+**Nome:** [Alessandro Uchoa do Nascimento](https://github.com/alessandroaun)
+**Curso:** Análise e desenvolvimento de sistemas
+**Semestre:** 1
+**Apresentação:** Focado em Front e Back-End
