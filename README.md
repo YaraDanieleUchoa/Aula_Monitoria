@@ -6,7 +6,13 @@ Este desafio faz parte do curso de versionamento ministrado por [Yara Daniele Uc
 
 ### Integrantes desse repositório
 
-**Nome:**  [Yara Daniele Uchoa](link)   
+**Nome:**  [Yara Daniele Uchoa](https://github.com/munizogm)   
 **Curso:**  Análise e desenvolvimento de sistemas   
 **Semestre:**   4   
 **Apresentação:**   Apaixonada por python e focada no Back-End  
+
+**Nome:**  [guilherme muniz ](link)   
+**Curso:**  ciencias da computação    
+**Semestre:**   1  
+**Apresentação:**   se caracteriza com segurança  
+
